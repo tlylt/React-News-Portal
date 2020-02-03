@@ -1,3 +1,13 @@
+Course work for React: Working with APIs by Emmanuel Henri
+
+```
+Powered by https://newsapi.org/, get your own free api key for the code to work
+```
+
+## Demo
+
+![Recordit GIF](http://g.recordit.co/DidYTBxK3a.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
